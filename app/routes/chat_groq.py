@@ -1,5 +1,5 @@
-load_dotenv()
 from dotenv import load_dotenv
+load_dotenv()
 """
 Real AI Chat using Groq API
 """
